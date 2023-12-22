@@ -5,6 +5,7 @@
 
 - type: linkedin
   icon: 'fab fa-linkedin'
+  url: 'https://www.linkedin.com/in/kangho-lee/'
 
 - type: email
   icon: "fas fa-envelope"
