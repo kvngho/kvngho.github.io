@@ -1,7 +1,7 @@
 ---
 title: DRF - 게시물 좋아요 기능 최적화
 date: 2023-02-21
-categories: ["PYTHO", "DJANGO"]
+categories: ["PYTHON", "DJANGO"]
 tags: ['python', 'django', 'restframework']     # TAG names should always be lowercase
 toc: true
 ---
