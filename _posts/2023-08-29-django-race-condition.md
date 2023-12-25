@@ -1,5 +1,5 @@
 ---
-title: 장고와 비즈니스 로직 - 개념
+title: 장고에서의 동시성 이슈
 date: 2023-08-20
 categories: ["PYTHON", "DJANGO"]
 tags: ['python', 'django', 'software']     # TAG names should always be lowercase
