@@ -2,7 +2,7 @@
 title: Istio 개념
 date: 2023-11-21
 categories: ["NETWORK", "ISTIO"]
-tags: ['kubenetess', 'network', 'istio']     # TAG names should always be lowercase
+tags: ['kubenetes', 'network', 'istio']     # TAG names should always be lowercase
 toc: true
 ---
 
