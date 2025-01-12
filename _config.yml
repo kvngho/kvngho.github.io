@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: Kangho Lee # the main title
 
-tagline: DevOps Engineer at HITS # it will display as the sub-title
+tagline: DevOps Engineer at mAy'I # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   공부한것 정리하기: devops, mlops, kubernetess, golang.. 등등
